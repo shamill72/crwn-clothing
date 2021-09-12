@@ -5,7 +5,7 @@ import './index.css';
 import App from './App';
 
 ReactDOM.render(
-  <BrowserRouter baseUrl="https://shamill72.github.io/">
+  <BrowserRouter>
     <App />
     </BrowserRouter>,
     document.getElementById('root')
