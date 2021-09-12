@@ -6,7 +6,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter baseUrl="/crwn-clothing/">
     <App />
     </BrowserRouter>,
     document.getElementById('root')
